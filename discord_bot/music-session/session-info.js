@@ -1,0 +1,1 @@
+// Holds info about the seesion (i.e Duration, Songs Played + Who queued it, )
